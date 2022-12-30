@@ -1,6 +1,3 @@
-Imports System.IO
-Imports System.Reflection
-
 Public Class Form1
 
     Protected Overrides Sub OnLoad(e As EventArgs)
